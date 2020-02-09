@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<c3p0-config>
+
+    <named-config name="mysql">
+
+        <property name="user">root</property>
+        <property name="password">We9654rt</property>
+        <property name="driverClass">com.mysql.cj.jdbc.Driver</property>
+        <property name="jdbcUrl">jdbc:mysql://localhost:3306/mydb</property>
+
+        <!-- 数据库连接数不足时候像服务器申请5个连接 -->
+        <property name="acquireIncrement">20</property>
+        <!-- 数据库初始化的时候加载到连接池内的连接 -->
+        <property name="initialPoolSize">20</property>
+        <!-- 数据库连接池中最小的数据库连接数 -->
+        <property name="minPoolSize">5</property>
+        <!-- 数据库连接池中最大的数据库连接数 -->
+        <property name="maxPoolSize">300</property>
+
+
+
+    </named-config>
+
+</c3p0-config>

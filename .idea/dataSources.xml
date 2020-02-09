@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DataSourceManagerImpl" format="xml" multifile-model="true">
+    <data-source source="LOCAL" name="jdbc:mysql://127.0.0.1:3306/RFID_Project" uuid="25c4c005-fabe-48d2-bd2b-f3bcdfeacb6a">
+      <driver-ref>hsqldb.local</driver-ref>
+      <synchronize>true</synchronize>
+      <configured-by-url>true</configured-by-url>
+      <jdbc-driver>com.mysql.cj.jdbc.Driver</jdbc-driver>
+      <jdbc-url>jdbc:mysql://127.0.0.1:3306/mydb</jdbc-url>
+    </data-source>
+    <data-source source="LOCAL" name="jdbc:mysql://127.0.0.1:3306/mydb" uuid="b514ea73-17bb-436b-bedb-3fb2aaeffa24">
+      <driver-ref>hsqldb.local</driver-ref>
+      <synchronize>true</synchronize>
+      <configured-by-url>true</configured-by-url>
+      <jdbc-driver>com.mysql.cj.jdbc.Driver</jdbc-driver>
+      <jdbc-url>jdbc:mysql://127.0.0.1:3306/mydb</jdbc-url>
+    </data-source>
+  </component>
+</project>
