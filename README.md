@@ -1,4 +1,5 @@
 # A_WebSite
+
 ***This is a simple website with basic functions and also combined with RFID ***
 
 ***Full-Stack Project***
@@ -8,4 +9,5 @@
    3. These function get and set data to the Data Base (MySQL)
    4. A server using Tomcat 
    5. Servlet using Java
+   6. C3P0 database link pool
    
