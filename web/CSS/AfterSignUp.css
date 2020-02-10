@@ -1,0 +1,39 @@
+body{
+
+    margin:0;
+    padding:0;
+    height: 100%;
+    background-color: #222831 ;
+    background-size:cover;
+}
+
+.container
+{
+    position: absolute;
+    margin: auto;
+    top: 40%;
+    left: 0;
+    right: 0;
+    bottom: 0;
+
+    text-align:center;
+    vertical-align: middle;
+
+}
+p
+{
+    position: relative;
+
+    font-size:22px;
+
+    color: #faafff;
+
+    font-family:ComicSansMS;
+
+    text-align: center;
+
+}
+#showTimes
+{
+    font-size:45px;
+}

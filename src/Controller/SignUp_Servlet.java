@@ -26,8 +26,8 @@ public class SignUp_Servlet extends HttpServlet {
         int epc = Integer.parseInt(EPC_code);
 
         signUp.Signup(ID, passWord, epc);
-        HttpSession session = req.getSession();
 
+        resp.sendRedirect("WebPage/AfterSignUp.html");
 
     }
 }

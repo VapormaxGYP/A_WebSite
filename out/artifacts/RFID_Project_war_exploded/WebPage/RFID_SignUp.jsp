@@ -17,6 +17,16 @@
 
 <body>
 
+<div class="Navbar">
+    <ul>
+        <li><a href="MainPage.jsp">Home</a></li>
+        <li><a href="#" traget="_blank">Notice</a></li>
+        <li><a href="RFID_Login.jsp" target="_blank">Log In</a>
+        <li><a href="RFID_SignUp.jsp" target="_blank">Sign Up</a></li>
+        <li><a href="mailto:vapormaxgyp@gmail.com" target="_blank">Mail Us</a></li>
+    </ul>
+</div>
+
 <div class="box">
 
     <h2>SIGN UP</h2>

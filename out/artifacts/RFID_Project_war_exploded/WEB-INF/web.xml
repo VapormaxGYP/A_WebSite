@@ -4,14 +4,5 @@
          xsi:schemaLocation="http://xmlns.jcp.org/xml/ns/javaee http://xmlns.jcp.org/xml/ns/javaee/web-app_4_0.xsd"
          version="4.0">
 
-    <resource-ref>
-        <description>mysql数据库连接池</description>
-        <!-- 参考数据源名字,同Tomcat中配置的Resource节点中name属性值"jdbc/mysqlds"一致 -->
-        <res-ref-name>jdbc/mysqlds</res-ref-name>
-        <!-- 资源类型 -->
-        <res-type>javax.sql.DataSource</res-type>
-        <res-auth>Container</res-auth>
-        <res-sharing-scope>Shareable</res-sharing-scope>
 
-    </resource-ref>
 </web-app>
