@@ -6,64 +6,7 @@
     </artifacts-to-build>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="da66eb1a-5c67-4f67-a05d-f6744e53a33e" name="Default Changelist" comment="A Website with basic function(Login,sign up)">
-      <change afterPath="$PROJECT_DIR$/web/CSS/AfterSignUp.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/CSS/font-awesome/HELP-US-OUT.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/CSS/font-awesome/css/font-awesome.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/CSS/font-awesome/css/font-awesome.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/CSS/font-awesome/fonts/FontAwesome.otf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/CSS/font-awesome/fonts/fontawesome-webfont.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/CSS/font-awesome/fonts/fontawesome-webfont.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/CSS/font-awesome/fonts/fontawesome-webfont.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/CSS/font-awesome/fonts/fontawesome-webfont.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/CSS/font-awesome/fonts/fontawesome-webfont.woff2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/CSS/font-awesome/less/animated.less" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/CSS/font-awesome/less/bordered-pulled.less" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/CSS/font-awesome/less/core.less" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/CSS/font-awesome/less/fixed-width.less" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/CSS/font-awesome/less/font-awesome.less" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/CSS/font-awesome/less/icons.less" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/CSS/font-awesome/less/larger.less" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/CSS/font-awesome/less/list.less" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/CSS/font-awesome/less/mixins.less" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/CSS/font-awesome/less/path.less" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/CSS/font-awesome/less/rotated-flipped.less" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/CSS/font-awesome/less/screen-reader.less" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/CSS/font-awesome/less/stacked.less" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/CSS/font-awesome/less/variables.less" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/CSS/font-awesome/scss/_animated.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/CSS/font-awesome/scss/_bordered-pulled.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/CSS/font-awesome/scss/_core.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/CSS/font-awesome/scss/_fixed-width.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/CSS/font-awesome/scss/_icons.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/CSS/font-awesome/scss/_larger.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/CSS/font-awesome/scss/_list.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/CSS/font-awesome/scss/_mixins.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/CSS/font-awesome/scss/_path.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/CSS/font-awesome/scss/_rotated-flipped.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/CSS/font-awesome/scss/_screen-reader.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/CSS/font-awesome/scss/_stacked.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/CSS/font-awesome/scss/_variables.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/CSS/font-awesome/scss/font-awesome.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/JS/AfterSignUp.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/WebPage/AfterSignUp.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/RFID_Project_war_exploded/CSS/Login.css" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/RFID_Project_war_exploded/CSS/Login.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/RFID_Project_war_exploded/CSS/Register.css" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/RFID_Project_war_exploded/CSS/Register.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/RFID_Project_war_exploded/WEB-INF/classes/Controller/SignUp_Servlet.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/RFID_Project_war_exploded/WEB-INF/classes/Controller/SignUp_Servlet.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/RFID_Project_war_exploded/WEB-INF/web.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/RFID_Project_war_exploded/WEB-INF/web.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/RFID_Project_war_exploded/WebPage/MainPage.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/RFID_Project_war_exploded/WebPage/MainPage.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/RFID_Project_war_exploded/WebPage/RFID_Login.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/RFID_Project_war_exploded/WebPage/RFID_Login.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/RFID_Project_war_exploded/WebPage/RFID_SignUp.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/RFID_Project_war_exploded/WebPage/RFID_SignUp.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/RFID_Project/Controller/SignUp_Servlet.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/RFID_Project/Controller/SignUp_Servlet.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Controller/SignUp_Servlet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Controller/SignUp_Servlet.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/CSS/Login.css" beforeDir="false" afterPath="$PROJECT_DIR$/web/CSS/Login.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/CSS/Register.css" beforeDir="false" afterPath="$PROJECT_DIR$/web/CSS/Register.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/WEB-INF/web.xml" beforeDir="false" afterPath="$PROJECT_DIR$/web/WEB-INF/web.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/WebPage/MainPage.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/web/WebPage/MainPage.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/WebPage/RFID_Login.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/web/WebPage/RFID_Login.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/WebPage/RFID_SignUp.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/web/WebPage/RFID_SignUp.jsp" afterDir="false" />
-    </list>
+    <list default="true" id="da66eb1a-5c67-4f67-a05d-f6744e53a33e" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -93,11 +36,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/web/CSS/Login.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1533">
-              <caret line="137" column="21" lean-forward="true" selection-start-line="137" selection-start-column="21" selection-end-line="137" selection-end-column="21" />
+            <state relative-caret-position="395">
+              <caret line="60" column="16" lean-forward="true" selection-start-line="60" selection-start-column="16" selection-end-line="60" selection-end-column="16" />
             </state>
           </provider>
         </entry>
@@ -111,11 +54,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/web/WebPage/RFID_Login.jsp">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="266">
-              <caret line="14" column="73" lean-forward="true" selection-start-line="14" selection-start-column="73" selection-end-line="14" selection-end-column="73" />
+            <state relative-caret-position="403">
+              <caret line="47" lean-forward="true" selection-start-line="47" selection-end-line="47" />
             </state>
           </provider>
         </entry>
@@ -640,7 +583,7 @@
       <workItem from="1581173230171" duration="664000" />
       <workItem from="1581213629183" duration="13521000" />
       <workItem from="1581259019680" duration="898000" />
-      <workItem from="1581260344739" duration="16447000" />
+      <workItem from="1581260344739" duration="16952000" />
     </task>
     <task id="LOCAL-00001" summary="A Website with basic function(Login,sign up)">
       <created>1581261272240</created>
@@ -656,11 +599,18 @@
       <option name="project" value="LOCAL" />
       <updated>1581262986222</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="A Website with basic function(Login,sign up)">
+      <created>1581331163616</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1581331163616</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="141521000" />
+    <option name="totallyTimeSpent" value="142026000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -673,7 +623,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1920" height="1080" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info id="Structure" order="0" sideWeight="0.5091278" side_tool="true" weight="0.3352181" />
       <window_info id="Designer" order="1" />
@@ -685,7 +634,7 @@
       <window_info content_ui="combo" id="Project" order="7" sideWeight="0.4908722" visible="true" weight="0.13951011" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32871288" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49840257" visible="true" weight="0.34455445" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49840257" weight="0.34455445" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4128713" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -697,7 +646,7 @@
       <window_info anchor="bottom" id="Messages" order="11" weight="0.32871288" />
       <window_info anchor="bottom" id="Java Enterprise" order="12" weight="0.32876712" />
       <window_info anchor="bottom" id="Database Changes" order="13" weight="0.32871288" />
-      <window_info anchor="bottom" id="Version Control" order="14" sideWeight="0.49946752" weight="0.328807" />
+      <window_info active="true" anchor="bottom" id="Version Control" order="14" sideWeight="0.49946752" visible="true" weight="0.32871288" />
       <window_info anchor="bottom" id="Database Console" order="15" weight="0.29108912" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -1031,17 +980,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/web/WebPage/RFID_Login.jsp">
+    <entry file="file://$PROJECT_DIR$/web/CSS/Login.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="266">
-          <caret line="14" column="73" lean-forward="true" selection-start-line="14" selection-start-column="73" selection-end-line="14" selection-end-column="73" />
+        <state relative-caret-position="395">
+          <caret line="60" column="16" lean-forward="true" selection-start-line="60" selection-start-column="16" selection-end-line="60" selection-end-column="16" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/web/CSS/Login.css">
+    <entry file="file://$PROJECT_DIR$/web/WebPage/RFID_Login.jsp">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1533">
-          <caret line="137" column="21" lean-forward="true" selection-start-line="137" selection-start-column="21" selection-end-line="137" selection-end-column="21" />
+        <state relative-caret-position="403">
+          <caret line="47" lean-forward="true" selection-start-line="47" selection-end-line="47" />
         </state>
       </provider>
     </entry>
